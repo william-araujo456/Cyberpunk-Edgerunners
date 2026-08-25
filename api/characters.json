@@ -7,7 +7,7 @@
   {"id":6,"name":"Pilar","role":"Mercenário","image":"assets/pilar.jpg"},
   {"id":7,"name":"Dorio","role":"Mercenária","image":"assets/dorio.jpg"},
   {"id":8,"name":"Falco","role":"Motorista","image":"assets/falco.jpg"},
-  {"id":9,"name":"Gloria Martinez","role":"Mãe de David","image":"assets/gloria.jpg"},
+  {"id":9,"name":"Gloria Martinez","role":"Mãe de David Martinez","image":"assets/gloria.jpg"},
   {"id":10,"name":"Faraday","role":"Fixer","image":"assets/faraday.jpg"},
   {"id":11,"name":"Adam Smasher","role":"Ciborgue","image":"assets/adam-smasher.jpg"}
 ]
