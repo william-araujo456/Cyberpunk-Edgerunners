@@ -1,0 +1,10 @@
+{
+  "id":8,
+  "name":"Falco",
+  "role":"Motorista",
+  "age":"Desconhecida",
+  "occupation":"Motorista",
+  "status":"Vivo",
+  "description":"Motorista habilidoso e estrategista do grupo de mercenários.",
+  "image":"assets/falco.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "id":1,
+  "name":"David Martinez",
+  "role":"Protagonista",
+  "age":17,
+  "occupation":"Mercenário",
+  "status":"Falecido",
+  "description":"Um estudante talentoso que abandona sua antiga vida para se tornar um mercenário em Night City.",
+  "image":"assets/david.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "id":4,
+  "name":"Maine",
+  "role":"Líder",
+  "age":"Desconhecida",
+  "occupation":"Mercenário",
+  "status":"Falecido",
+  "description":"O líder experiente da equipe de mercenários que acolhe David em Night City.",
+  "image":"assets/maine.jpg"
+}

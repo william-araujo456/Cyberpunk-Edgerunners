@@ -1,0 +1,10 @@
+{
+  "id":10,
+  "name":"Faraday",
+  "role":"Fixer",
+  "age":"Desconhecida",
+  "occupation":"Fixer",
+  "status":"Falecido",
+  "description":"Um fixer manipulador que atua nos bastidores de Night City.",
+  "image":"assets/faraday.jpg"
+}

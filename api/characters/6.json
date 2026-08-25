@@ -1,0 +1,10 @@
+{
+  "id":6,
+  "name":"Pilar",
+  "role":"Mercenário",
+  "age":"Desconhecida",
+  "occupation":"Mercenário",
+  "status":"Falecido",
+  "description":"Especialista em armas pesadas e irmão mais velho de Rebecca.",
+  "image":"assets/pilar.jpg"
+}

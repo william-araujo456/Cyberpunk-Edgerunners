@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Detalhes do Personagem</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+
+<img src="assets/logo.png" alt="Cyberpunk Edgerunners" class="logo">
+
+</header>
+
+<main id="character-details" class="details"></main>
+
+<script>
+
+const id =
+new URLSearchParams(location.search).get("id");
+
+async function carregar(){
+
+const resposta =
+await fetch(`api/characters/${id}.json`);
+
+const personagem = await resposta.json();
+
+document.getElementById("character-details").innerHTML = `
+
+<a href="index.html" class="back-btn">← Voltar</a>
+
+<div class="profile">
+
+<img src="${personagem.image}" alt="${personagem.name}">
+
+<h1>${personagem.name}</h1>
+
+</div>
+
+<div class="info-section">
+
+<h2>Cargo</h2>
+
+<p>${personagem.role}</p>
+
+<h2>Idade</h2>
+
+<p>${personagem.age}</p>
+
+<h2>Ocupação</h2>
+
+<p>${personagem.occupation}</p>
+
+<h2>Status</h2>
+
+<p>${personagem.status}</p>
+
+<h2>Descrição</h2>
+
+<p>${personagem.description}</p>
+
+</div>
+
+`;
+
+}
+
+carregar();
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "id":2,
+  "name":"Lucy",
+  "role":"Netrunner",
+  "age":"Por volta de 20",
+  "occupation":"Mercenária",
+  "status":"Viva",
+  "description":"Uma netrunner misteriosa que sonha em viajar para a Lua.",
+  "image":"assets/lucy.jpg"
+}

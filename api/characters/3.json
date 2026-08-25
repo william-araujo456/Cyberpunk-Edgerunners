@@ -1,0 +1,10 @@
+{
+  "id":3,
+  "name":"Rebecca",
+  "role":"Mercenária",
+  "age":"Desconhecida",
+  "occupation":"Mercenária",
+  "status":"Falecida",
+  "description":"Uma combatente impulsiva, carismática e extremamente leal aos seus companheiros.",
+  "image":"assets/rebecca.jpg"
+}

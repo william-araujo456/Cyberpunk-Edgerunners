@@ -1,0 +1,13 @@
+[
+  {"id":1,"name":"David Martinez","role":"Protagonista","image":"assets/david.jpg"},
+  {"id":2,"name":"Lucy","role":"Netrunner","image":"assets/lucy.jpg"},
+  {"id":3,"name":"Rebecca","role":"Mercenária","image":"assets/rebecca.jpg"},
+  {"id":4,"name":"Maine","role":"Líder","image":"assets/maine.jpg"},
+  {"id":5,"name":"Kiwi","role":"Netrunner","image":"assets/kiwi.jpg"},
+  {"id":6,"name":"Pilar","role":"Mercenário","image":"assets/pilar.jpg"},
+  {"id":7,"name":"Dorio","role":"Mercenária","image":"assets/dorio.jpg"},
+  {"id":8,"name":"Falco","role":"Motorista","image":"assets/falco.jpg"},
+  {"id":9,"name":"Gloria Martinez","role":"Mãe de David","image":"assets/gloria.jpg"},
+  {"id":10,"name":"Faraday","role":"Fixer","image":"assets/faraday.jpg"},
+  {"id":11,"name":"Adam Smasher","role":"Ciborgue","image":"assets/adam-smasher.jpg"}
+]
