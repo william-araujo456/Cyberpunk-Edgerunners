@@ -4,7 +4,7 @@
   "role":"Protagonista",
   "age":17,
   "occupation":"Mercenário",
-  "status":"Falecido",
-  "description":"Um estudante talentoso que abandona sua antiga vida para se tornar um mercenário em Night City.",
+  "status":"Morto",
+  "description":"Jovem de origem humilde que se torna mercenário após uma tragédia familiar, utilizando implantes cibernéticos para sobreviver em Night City.",
   "image":"assets/david.jpg"
 }
