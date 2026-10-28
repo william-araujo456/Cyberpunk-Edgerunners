@@ -1,10 +1,10 @@
 {
   "id":4,
   "name":"Maine",
-  "role":"Líder",
+  "role":"Líder Mercenário",
   "age":"Desconhecida",
   "occupation":"Mercenário",
-  "status":"Falecido",
-  "description":"O líder experiente da equipe de mercenários que acolhe David em Night City.",
+  "status":"Morto",
+  "description":"Líder experiente de uma equipe de mercenários que acolhe David e se torna seu mentor, mas enfrenta as consequências do uso excessivo de implantes cibernéticos.",
   "image":"assets/maine.jpg"
 }
