@@ -4,7 +4,7 @@
   "role":"Fixer",
   "age":"Desconhecida",
   "occupation":"Fixer",
-  "status":"Falecido",
-  "description":"Um fixer manipulador que atua nos bastidores de Night City.",
+  "status":"Morto",
+  "description":"Fixer manipulador que organiza trabalhos para mercenários e busca ascender profissionalmente por meio de acordos com grandes corporações.",
   "image":"assets/faraday.jpg"
 }
