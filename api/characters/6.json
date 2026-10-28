@@ -1,10 +1,10 @@
 {
   "id":6,
   "name":"Pilar",
-  "role":"Mercenário",
+  "role":"Técnico",
   "age":"Desconhecida",
   "occupation":"Mercenário",
-  "status":"Falecido",
-  "description":"Especialista em armas pesadas e irmão mais velho de Rebecca.",
+  "status":"Morto",
+  "description":"Irmão mais velho de Rebecca e integrante da equipe de Maine, conhecido por seu humor provocador e suas habilidades técnicas.",
   "image":"assets/pilar.jpg"
 }
