@@ -12,3 +12,8 @@ Um site simples e estiloso para explorar os personagens de **Cyberpunk: Edgerunn
 - ⌨️ **Atalhos de teclado:** veja a tabela abaixo.
 - ⚡ **Dados dinâmicos:** carregados via `fetch` a partir de arquivos JSON.
 - ♿ **Acessibilidade:** cards são links reais, o foco do teclado fica visível e as animações respeitam `prefers-reduced-motion`.
+
+## 🛠️ Tecnologias
+ 
+- HTML, CSS e JavaScript puro (vanilla), sem frameworks ou dependências
+- Fontes: **Chakra Petch** e **Space Grotesk** (Google Fonts)
