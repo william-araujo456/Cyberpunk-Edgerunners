@@ -1,0 +1,10 @@
+{
+  "id":12,
+  "name":"Roman Carax",
+  "role":"Protagonista",
+  "age":"12",
+  "occupation":"Cineasta amador",
+  "status":"Vivo",
+  "description":"Jovem cineasta amador e cinéfilo que rejeita a dependência de Night City pelas neurodanças. Em vez de consumir memórias artificiais ou editadas, ele usa uma câmera de vídeo tradicional para documentar a realidade crua e caótica da cidade.",
+  "image":"assets/roman.jpg"
+}
