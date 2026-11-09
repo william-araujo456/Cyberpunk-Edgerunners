@@ -9,5 +9,9 @@
   {"id":8,"name":"Falco","role":"Motorista · Especialista em fugas","image":"assets/falco.jpg"},
   {"id":9,"name":"Gloria Martinez","role":"Mãe de David Martinez","image":"assets/gloria.jpg"},
   {"id":10,"name":"Faraday","role":"Fixer","image":"assets/faraday.jpg"},
-  {"id":11,"name":"Adam Smasher","role":"Ciborgue","image":"assets/adam-smasher.jpg"}
+  {"id":11,"name":"Adam Smasher","role":"Ciborgue","image":"assets/adam-smasher.jpg"},
+  {"id":12,"name":"Roman Carax","role":"Protagonista · Cineasta amador","image":"assets/roman.jpg"},
+  {"id":13,"name":"Talia Yang","role":"Mercenária · Lutadora","image":"assets/talia.jpg"},
+  {"id":14,"name":"D","role":"Netrunner · Sobrevivente da Nação Cobra","image":"assets/d.jpg"},
+  {"id":15,"name":"Weak Kingsley","role":"Mercenário · Pistoleiro de aluguel","image":"assets/weak.jpg"}
 ]
