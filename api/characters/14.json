@@ -1,0 +1,10 @@
+{
+    "id": 14,
+    "name": "D",
+    "role": "Netrunner",
+    "age": "Desconhecida",
+    "occupation": "Netrunner",
+    "status": "Desconhecido",
+    "description":"Experiente netrunner nômade, diferente de mercenários tradicionais que buscam fama ou dinheiro, sua jornada é inteiramente movida por um desejo de vingança.",
+    "image": "assets/d.jpg"
+}
